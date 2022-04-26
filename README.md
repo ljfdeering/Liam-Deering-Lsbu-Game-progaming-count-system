@@ -1,10 +1,5 @@
 # Liam-Deering-Lsbu-Game-progaming-count-system
 
-
-
-# Liam-Deering-Lsbu-game-programing-Packages
-
-
 This project will contain my four packages for progaming for the module.
 These are a counting system, 3d movement controls, grapple gun and a pixel shader.
 
